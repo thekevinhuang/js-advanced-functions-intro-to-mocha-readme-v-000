@@ -10,8 +10,8 @@ function sayHeyFriend(name) {
   return `Hey, ${name}!`
 }
 
-function favoriteIceCream() {
-
+function favoriteIceCream(flavor) {
+  return `I love ${flavor}`
 }
 
 function shouting(message) {
@@ -19,5 +19,5 @@ function shouting(message) {
 }
 
 function roundDown() {
-  
+
 }
