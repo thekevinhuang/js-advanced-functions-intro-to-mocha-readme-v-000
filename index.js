@@ -11,11 +11,13 @@ function sayHeyFriend(name) {
 }
 
 function favoriteIceCream() {
-  
+
 }
 
 function shouting(message) {
-  
+
 }
 
-function 
+function roundDown() {
+  
+}
